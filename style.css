@@ -1,0 +1,43 @@
+body {
+   background-image: url(triangle_colors.jpg);
+  background-size:cover;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align:center;
+}
+h1 {
+  color: white;
+  text-shadow: 2px 2px 3px black, 2px 2px 6px #55b8ac;
+}
+button{
+  background-color:#89a4f5;
+  border-radius: 5px;
+  border-color: white;
+  color:white;
+  font-weight: bold;
+}
+table, th, td {
+  border-collapse: collapse;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color:white;
+  width: 100%;
+  text-align: center;
+  padding:5px;
+  margin:10px;
+  background-color:#f790bb;
+  color:white;
+}
+tr{
+  width:30%;
+}
+p{
+  background:rgba(255, 255, 255, 0.3);
+  background-opacity:75%;
+  color:#89a4f5;
+  font-weight: bold;
+  text-shadow: 2px 1px 0px black, 2px 2px 5px white;
+}
+input{
+  align:center;
+  border-radius: 8px;
+}
